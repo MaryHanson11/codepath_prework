@@ -34,7 +34,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 This was my first time using swift, so it felt unfamiliar and the creation process was slow. However, it was a really rewarding and cool to see the final product. I'm excited to learn the language. 
 
 ## License
